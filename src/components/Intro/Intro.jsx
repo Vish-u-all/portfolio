@@ -37,8 +37,8 @@ const Intro = () => {
         </Link>
         {/* social icons */}
         <div className="i-icons">
-          <a href="https://github.com/Vish-u-all"><img src={Github} alt="" /></a>
-          <a href="www.linkedin.com/in/vishal-bairwa"><img src={LinkedIn} alt="" /></a>
+          <a href="https://github.com/Vish-u-all" target="_blank" rel="noopener"><img src={Github} alt="" /></a>
+          <a href="https://www.linkedin.com/in/vishal-bairwa" target="_blank" rel="noopener"><img src={LinkedIn} alt="" /></a>
           {/* <img src={Instagram} alt="" /> */}
         </div>
       </div>

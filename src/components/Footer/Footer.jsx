@@ -13,8 +13,8 @@ const Footer = () => {
       <div className="f-content">
         <span>vishalbairwa37@gmail.com</span>
         <div className="f-icons">
-          <a href="https://github.com/Vish-u-all"><Gitub color="white" size={"3rem"} /></a>
-          <a href="www.linkedin.com/in/vishal-bairwa"><LinkedIn color="white" size={"3rem"}/></a>
+          <a href="https://github.com/Vish-u-all" target="_blank" rel="noopener"><Gitub color="white" size={"3rem"} /></a>
+          <a href="https://www.linkedin.com/in/vishal-bairwa" target="_blank" rel="noopener"><LinkedIn color="white" size={"3rem"}/></a>
         
         </div>
       </div>
